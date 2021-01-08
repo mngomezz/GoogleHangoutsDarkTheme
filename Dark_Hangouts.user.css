@@ -1,0 +1,270 @@
+/* ==UserStyle==
+@name           Google Hangouts Dark Theme
+@namespace      https://github.com/mngomezz/Hangouts-Dark-Theme
+@version        1.0.0
+@description    A dark theme for Hangouts web client.
+@author         Martin Gomez
+@homepageURL    https://github.com/mngomezz/Hangouts-Dark-Theme/blob/master/GoogleHangouts.user.css
+==/UserStyle== */
+@-moz-document domain("hangouts.google.com") {
+    .Yo,
+    input {
+        background-color: #111111 !important;
+    }
+    .JPdR6b,
+    .g-Ue-OkO9ve,
+    .aOY59,
+    .yd:nth-child(odd) {
+        background-color: #161616 !important;
+    }
+    .Tas0Xb,
+    .OARXbd .dGuIkb,
+    .Wkchmf,
+    .g-Ue-kc,
+    .Zcetzc,
+    .EV,
+    .RU,
+    .x1bKod,
+    .My,
+    .THEx0c,
+    .g6AeB,
+    .oJ,
+    .o5eDyc,
+    .Lv,
+    .mS,
+    .oS,
+    .iN,
+    .kG,
+    .yd:nth-child(even) {
+        background-color: #1C1C1C !important;
+    }
+    .bdXzDb .z80M1.FwR7Pc,
+    .bdXzDb .z80M1.skHzY,
+    .ptrgQb:focus,
+    .ptrgQb:hover,
+    .Bb,
+    .EFnEWc:focus,
+    .EFnEWc:hover,
+    .eh.c-P-p,
+    .rqOFie,
+    .uJ .Ih,
+    .z-b-G,
+    .m9Ps1,
+    .ncFHed .MocG8c.KKjvXb,
+    .jWXvIc,
+    .z80M1.FwR7Pc,
+    .VOEIyf .jBmls,
+    .jQDifd,
+    .YG3x7.c-P-p,
+    .YG3x7.c-P-p.c-P-B,
+    .c-i,
+    .rXcQNd-jd-vb-qc-p,
+    .hQV5If,
+    .HfhnEf.Rb6KY,
+    .HfhnEf:hover,
+    .HfhnEf.kRbK0e,
+    .LL75dd,
+    .MU,
+    .nS {
+        background-color: #2C2C2C !important;
+    }
+    .cyqIc,
+    .fUnK0,
+    .Bb:hover,
+    .Bb:focus,
+    .rqOFie li.c-k:hover,
+    .z-b-G:hover,
+    .oKubKe[aria-selected="true"],
+    .WPhfe,
+    .c-k-Tb,
+    .c-k-p,
+    .hQV5If li.c-k:hover {
+        background-color: #3C3C3C !important;
+    }
+    .jcaQle .i9lrp,
+    .yV {
+        background-color: #4C4C4C !important;
+    }
+    .Sn .KRQuhe {
+        background-color: #111 !important;
+    }
+    .g-Ue-OkO9ve,
+    div.gb_7f,
+    .yd > .Bb {
+        background-color: transparent !important;
+    }
+    .pj .KRQuhe {
+        background-color: #333 !important;
+        /*#0F9D58*/
+    }
+    .MT.zc-Sf {
+        background: #0f9d58 !important;
+    }
+    .pj .jHldnd {
+        border-color: #333 !important;
+    }
+    .g-Ue-ua-b.mUbCce,
+    .mD,
+    .zD,
+    .Lo,
+    .kBfhc,
+    .nXTVs,
+    .gsl0xd,
+    .jr,
+    .c-k:hover,
+    .EV,
+    .RU,
+    .z-b-G,
+    .XX,
+    .B892Jd,
+    .aOY59,
+    .sUSmAe,
+    .c-dd,
+    .THEx0c,
+    .x1bKod-Ga,
+    .x1bKod-i,
+    .oJ,
+    .o5eDyc,
+    .oS {
+        border-color: #4C4C4C !important;
+    }
+    .gsl0xd,
+    .Sn .jHldnd {
+        border-color: #111111 !important;
+        /*#6699CC*/
+    }
+    .g-Ue-ua-b.mUbCce {
+        border-color: #FFF !important;
+    }
+    .My {
+        border-top-color: #4C4C4C !important;
+    }
+    .ut0cCc .ZAGvjd,
+    .c-dd {
+        border-bottom-color: #4C4C4C !important;
+    }
+    .A14hmf {
+        border-color: #3C3C3C transparent transparent transparent !important;
+    }
+    .MZ8Llf,
+    .eWAaP,
+    .lPNGt,
+    .Bb .ik,
+    .Bb.ko.ee .ik,
+    .cj,
+    .mopgBe,
+    #dwrFZd0m,
+    .UXCY0 .MocG8c,
+    .UvnXIb,
+    .KKjvXb.VZhFab,
+    .PNenzf,
+    .s8W6Pe,
+    .jQDifd,
+    .zn6G2b,
+    .zn6G2b,
+    .FzSsbb,
+    .VqBtHf,
+    .X9qCPe,
+    .rNeXgf,
+    .UqiX1c.D9V1sf,
+    .c-k-Tb .c-k-t,
+    .c-k-p .c-k-t,
+    .qCUW5d,
+    .sKAH3,
+    .mS,
+    .BV,
+    input {
+        color: #FAFAFA !important;
+    }
+    .z80M1,
+    .OARXbd .Kx0kHf,
+    .Bb .Rp,
+    input[type="text"]::placeholder,
+    .Rj,
+    .dBcHLc,
+    .rqOFie li.c-k .c-k-t,
+    .H3qADd,
+    .hN,
+    .I5OlBe,
+    .RveJvd,
+    input,
+    button,
+    .FtCne,
+    :not(.KKjvXb) > .VZhFab,
+    .xyUV2b,
+    .iknqmd,
+    .pghO0c,
+    .rXcQNd-jd-vb-qc-qj,
+    .c-k,
+    .c-Fr,
+    .c-jq,
+    .TlvAYc,
+    .c-k-t,
+    .vE.dQ.editable,
+    .LL75dd,
+    .WLUL0c,
+    .Bb.ee .ng,
+    .e7tU2b .HM42Te,
+    .CWGGG {
+        color: #CCC !important;
+    }
+    .HUCXgd {
+        color: #AAA !important;
+    }
+    .Mu.SP {
+        color: #FAFAFA !important;
+    }
+    .MocG8c {
+        color: #5f6368 !important;
+    }
+    .NzflHf,
+    .BTVbrc > div > a,
+    .a-E.Eg > p > a,
+    .a-E.Eg > div > div > a,
+    .pj .JL,
+    .Sn .JL,
+    .pj .JL a,
+    .pj .JL a:visited,
+    .Sn .JL a,
+    .Sn .JL a:visited,
+    a.Xx {
+        color: #4285F4 !important;
+    }
+    .bdXzDb .RY89vd .pTh3n,
+    .pTh3n,
+    .fKz7Od {
+        fill: #CCC !important;
+    }
+    .g-Ue-OkO9ve {
+        margin-left: 0px !important;
+    }
+    .gb_xc {
+        margin-left: 37px !important;
+    }
+    img.gb_uc {
+        padding-left: 40px !important;
+    }
+    .uJ,
+    .uJ .Ih,
+    .mS {
+        text-shadow: none !important;
+    }
+    .dfDZSe.Zcetzc > .ci {
+        filter: invert(80%) !important;
+    }
+    .jBVYec.a63pHf > .eHsso,
+    .i8deMd,
+    .OYecEb,
+    .HCKRbd,
+    .Wv1EFb > .Cyynpc,
+    .yq6mRd,
+    .mnIV2e {
+        filter: invert(100%) !important;
+    }
+    .gb_D {
+        filter: invert(0%) !important;
+    }
+    .SQKNwc {
+        filter: invert(100%) grayscale(100%) !important;
+    }
+}
